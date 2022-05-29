@@ -1,6 +1,6 @@
 # NumberGame
 
-This is a little game written in C++.
+This is a little command line-based game written in C++.
 
 In this game you can 10 times to guess a number between 1 and 100.
 If you guess the number correctly, you win!
